@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MeshShader.vcxproj.user
+/.vs/MeshShader/v16
+/x64/Debug
